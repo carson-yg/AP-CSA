@@ -1,0 +1,29 @@
+Answer the following questions in this document OR in one of the .java files
+
+1. What is a power (in math)? What information do you need to have to be able to do a calculation with a power?
+A power in math is multiplying the base value by a specific number of  times. A base and exponent number is required to calculate a power.
+
+
+
+2. In the Iterative.java file, complete the code that will calculate and return a calculation using a power.
+
+
+
+3. What is a factorial?
+A factorial is when you multiply a number by all the numbers between a specific number and 1.
+
+
+4. In the Iterative.java file, complete the code that will calculate and return a calculation using a factorial.
+
+
+
+5. What is a Fibonacci number? Fibonacci sequence? Explain how you would find the 5th, 10th, and nth Fibonacci number.
+A fibonacci sequence are numbers that follow a specific rule. Each number is the sum of the two numbers before it. 0, 1, 1, 2, 3, 5... and so forth.
+
+
+6. In the Iterative.java file, complete the code that will find and return the nth Fibonacci number.
+
+
+
+7. What do all of these things have in common?
+They can be written both iteratively and recursively.
