@@ -20,7 +20,6 @@ public static void main(String[] args){
     
     kt.runOnce();
     // run 10 tours and display average number of moves until trapped.
-    // You need to create this method
     //kt.runSims(10);
   }
   public KnightTour() {
@@ -209,7 +208,7 @@ public static void main(String[] args){
         return false;
       }
     }
-    return true;// Always???  C'mon Mr. Hanson
+    return true;
   }
 
   public boolean outOfBounds(){
